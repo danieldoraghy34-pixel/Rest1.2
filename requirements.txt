@@ -1,0 +1,12 @@
+# By Mohaned Gruop Veil 
+
+colorama
+base64
+cryptography
+
+pip install customtkinter
+
+python rest.py
+
+password manager > VEIL.NET 
+
